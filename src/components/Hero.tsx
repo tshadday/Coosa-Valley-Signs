@@ -12,7 +12,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <Badge className="mb-6 bg-blue-500/20 text-blue-100 border-blue-400/30">
             <Award className="h-4 w-4 mr-2" />
-            Serving Rome, GA Since 1995
+            Serving Rome, GA Since 2009
           </Badge>
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
@@ -31,7 +31,7 @@ const Hero = () => {
                 Get Free Quote <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-900 px-8 py-4 text-lg">
+            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white text-blue-900 px-8 py-4 text-lg">
               View Our Work
             </Button>
           </div>
@@ -43,7 +43,7 @@ const Hero = () => {
                   <Star key={i} className="h-5 w-5 fill-yellow-400 text-yellow-400" />
                 ))}
               </div>
-              <span className="font-medium">25+ Years Experience</span>
+              <span className="font-medium">15+ Years Experience</span>
             </div>
             <div className="h-6 w-px bg-blue-400/30 hidden sm:block"></div>
             <div className="font-medium">500+ Happy Customers</div>

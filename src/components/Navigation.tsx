@@ -45,7 +45,7 @@ const Navigation = () => {
             </Link>
             <Button className="bg-blue-600 hover:bg-blue-700">
               <Phone className="h-4 w-4 mr-2" />
-              (706) 555-0123
+              (706) 234-6225
             </Button>
           </div>
 

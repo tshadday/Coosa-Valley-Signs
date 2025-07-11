@@ -104,7 +104,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h4 className="font-semibold mb-1">Phone</h4>
-                        <p className="text-muted-foreground">(706) 555-0123</p>
+                        <p className="text-muted-foreground">(706) 234-6225</p>
                         <p className="text-sm text-green-600">Available 8 AM - 5 PM</p>
                       </div>
                     </div>
@@ -116,7 +116,6 @@ const Contact = () => {
                       <div>
                         <h4 className="font-semibold mb-1">Email</h4>
                         <p className="text-muted-foreground">info@coosavalleysigns.com</p>
-                        <p className="text-sm text-green-600">Response within 2 hours</p>
                       </div>
                     </div>
 
@@ -127,8 +126,8 @@ const Contact = () => {
                       <div>
                         <h4 className="font-semibold mb-1">Location</h4>
                         <p className="text-muted-foreground">
-                          123 Main Street<br />
-                          Rome, GA 30161
+                          406 John Davenport Dr<br />
+                          Rome, GA 30165
                         </p>
                       </div>
                     </div>
@@ -141,8 +140,7 @@ const Contact = () => {
                         <h4 className="font-semibold mb-1">Business Hours</h4>
                         <div className="text-muted-foreground text-sm space-y-1">
                           <p>Monday - Friday: 8:00 AM - 5:00 PM</p>
-                          <p>Saturday: 9:00 AM - 2:00 PM</p>
-                          <p>Sunday: Closed</p>
+                          <p>Saturday & Sunday: Closed</p>
                         </div>
                       </div>
                     </div>

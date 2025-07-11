@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
             <p className="text-gray-300 leading-relaxed">
               Professional signage solutions serving Rome, GA and surrounding areas 
-              since 1995. Quality craftsmanship and exceptional service.
+              since 2009. Quality craftsmanship and exceptional service.
             </p>
           </div>
 
@@ -31,7 +31,7 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">(706) 555-0123</span>
+                <span className="text-gray-300">(706) 234-6225</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />
@@ -40,8 +40,8 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-blue-400 mt-1" />
                 <span className="text-gray-300">
-                  123 Main Street<br />
-                  Rome, GA 30161
+                  406 John Davenport Dr<br />
+                  Rome, GA 30165
                 </span>
               </div>
             </div>
@@ -55,8 +55,7 @@ const Footer = () => {
                 <Clock className="h-5 w-5 text-blue-400" />
                 <div className="text-gray-300">
                   <div>Mon - Fri: 8:00 AM - 5:00 PM</div>
-                  <div>Saturday: 9:00 AM - 2:00 PM</div>
-                  <div>Sunday: Closed</div>
+                  <div>Saturday & Sunday: Closed</div>
                 </div>
               </div>
             </div>

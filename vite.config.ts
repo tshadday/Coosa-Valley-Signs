@@ -19,4 +19,6 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  // Conditionally set base path
+  base: mode === 'production' ? '/coosa-valley-signs/' : '/',
 }));
